@@ -1,0 +1,5 @@
+Shreejha SUkanthan
+B01105891
+
+To compile: gcc filename.c -o filename
+To execute: ./filename
